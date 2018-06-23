@@ -1,0 +1,14 @@
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\BLL.dll.config
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\BLL.dll
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\BLL.pdb
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\BO.dll
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\DAL.dll
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\EntityFramework.dll
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\BO.pdb
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\DAL.pdb
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\EntityFramework.xml
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\obj\Debug\BLL.dll
+D:\PAS Projects-Internship\2nd Day\TempleteImplement\WebApplication1\BLL\obj\Debug\BLL.pdb
